@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/--page-de-test/</link>
       <pubDate>Thu, 01 May 2025 10:01:58 +0200</pubDate>
       <guid>http://localhost:1313/posts/--page-de-test/</guid>
-      <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;&#xA;&lt;h2 id=&#34;smaller-test&#34;&gt;smaller test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;and-an-even-smaller-test&#34;&gt;and an even smaller test&lt;/h3&gt;&#xA;&lt;p&gt;Just for a simple text.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;test&#34;&gt;test&lt;/h1&gt;&#xA;&lt;h2 id=&#34;smaller-test&#34;&gt;smaller test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;and-an-even-smaller-test&#34;&gt;and an even smaller test&lt;/h3&gt;&#xA;&lt;p&gt;Just for a simple text.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Far0w/shared_vademecum/actions/workflows/pages/pages-build-deployment&#34;&gt;&lt;img src=&#34;https://github.com/Far0w/shared_vademecum/actions/workflows/pages/pages-build-deployment/badge.svg&#34; alt=&#34;pages-build-deployment&#34;&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
