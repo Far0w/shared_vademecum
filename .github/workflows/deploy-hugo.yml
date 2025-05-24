@@ -23,7 +23,7 @@ jobs:
         extended: true
 
     - name: Build Hugo
-      run: hugo --gc --minify --baseURL=https://far0w.github.io/shared_vademecum/ # If error rm gc
+      run: hugo --minify --baseURL=https://far0w.github.io/shared_vademecum/ # If error rm gc
 
     - name: Add .nojekyll
       run: echo > public/.nojekyll

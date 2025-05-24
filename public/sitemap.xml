@@ -3,27 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/how-to-make-a-cool-background/</loc>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/red/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
+    <lastmod>2025-05-24T20:26:25+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post-iii/</loc>
+    <lastmod>2025-05-24T17:55:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/yellow/</loc>
+    <lastmod>2025-05-24T17:55:41+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-i---test/</loc>
     <lastmod>2025-05-01T10:01:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post-ii---la-vie/</loc>
-    <lastmod>2025-05-01T10:01:58+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/yellow/</loc>
     <lastmod>2025-05-01T10:01:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
