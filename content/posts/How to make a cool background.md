@@ -1,9 +1,11 @@
 ---
-title: How to make a cool background for your website
+title: How to make a cool background for your blog
 description: Title is says everything
 date: 2025-05-24T20:26:25+02:00
 draft: false
-tags: [blue, red]
+tags:
+  - blue
+  - red
 toc: false
 ---
 
