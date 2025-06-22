@@ -16,7 +16,7 @@ Something that means something to me. At the same time, it had to look and sound
 
 At first, I found “Levi.” I was inspired by [Levi](https://scavengers-reign.fandom.com/wiki/Levi) in Scavengers Reign.
 
-![Levi3](/images/Levi3.jpeg)
+![Levi3](images/Levi3.jpeg)
 
 I like sci-fi, and I liked this robot: how it becomes more and more organic throughout the episodes. I realized it actually captured two ideas that resonated with me:
 

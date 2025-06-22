@@ -10,7 +10,9 @@
 
 <header>
 	<div class="main">
-		<a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a>
+		<!--<a href="{{ absLangURL "/" }}">{{ .Site.Title }}</a>-->
+		<!--<a href="{{ "/" | relURL }}">{{ .Site.Title }}</a>-->
+		<a href="{{ "/" | absURL }}">My Blog</a>
 	</div>
 	<nav>
 		{{ range .Site.Menus.main }}
