@@ -13,7 +13,7 @@ I discovered this while seeing DJ_Dave IG account.
 **Algorave logo**
 
 
-![pic](algorave_logo.png)
+![pic](sharing_website/shared_vademecum/public/algorave_logo.png)
 
 
 ## Ressources
